@@ -1,0 +1,12 @@
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\bin\Debug\net5.0\EasyTools.deps.json
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\bin\Debug\net5.0\EasyTools.dll
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\bin\Debug\net5.0\EasyTools.pdb
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\EasyTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\EasyTools.AssemblyInfoInputs.cache
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\EasyTools.AssemblyInfo.cs
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\EasyTools.csproj.CoreCompileInputs.cache
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\EasyTools.dll
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\ref\EasyTools.dll
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\EasyTools.pdb
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\EasyTools.csproj.AssemblyReference.cache
+C:\Users\yanni\Documents\Visual projects\EasyTools\EasyTools\obj\Debug\net5.0\refint\EasyTools.dll
